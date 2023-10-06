@@ -13,7 +13,7 @@
 - ☀️ I’m currently at UCSB as an EEMB Ph.D. student in the [Hofmann lab](https://www.hofmannlab.com/) where I am studying the impacts of Marine Heatwaves and food availability on the reproductive output of the purple sea urchin. 
 - 🥸 I’m currently learning R and participated in the NCEAS October coreR workshop! 
 
-<font color="#9900FF"> Welcome to freeCodeCamp. </font>
+<font color="orange"> Welcome to freeCodeCamp. </font>
 
 - ⭐ More about me:
 - Going to the beach
