@@ -8,16 +8,16 @@
 - 🐦 [lmariecology](https://x.com/lmariecology?s=21&t=lszF5PxqCSufrEiaJKIFRg)
 - 📫 How to reach me: [leeza-marie@ucsb.edu](mailto:leeza-marie@ucsb.edu)
 - 🎓 I am a [CSUF Zacherl Lab](https://zacherllab.com/research/) alumni and earned my B.S. in Biology 
-
-
 - ☀️ I’m currently at UCSB as an EEMB Ph.D. student in the [Hofmann lab](https://www.hofmannlab.com/) where I am studying the impacts of Marine Heatwaves and food availability on the reproductive output of the purple sea urchin. 
 - 🥸 I’m currently learning R and participated in the NCEAS October coreR workshop! 
 
-<font color="orange"> Welcome to freeCodeCamp. </font>
 
-- ⭐ More about me:
-- Going to the beach
-- Reading my current read [is](https://www.goodreads.com/en/book/show/62949033)
+## ⭐ More about me:
+- Going to the beach and tidepooling!
+- my favorite marine invertebrate is the Blue Dragon
+![e0bf81a8f06f9543444a1f21ee20ce53](https://github.com/lmarierodriguez/lmarierodriguez/assets/146018367/d0e7aa34-820e-48cf-aace-84bd62b2bafa)
+
+- Reading! My current read [is](https://www.goodreads.com/en/book/show/62949033)
 - I love Star Wars & anything Disney! 🏰✨
 - Pedro Pascal✨🥰
   
